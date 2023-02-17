@@ -44,32 +44,29 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
 /*============== SOCIAL ==============*/
 
 // Wajib diisi ya kak!, kalo ga punya biarin aja, biar ada creditsnya :v
-global.sig = 'https://www.instagram.com/_lucxfvr'
-global.sgh = 'https://github.com/VarrelKun'
-global.sgc = 'https://chat.whatsapp.com/DRnWIXKf0VLH4KArdpH4IX'
+global.sig = 'https://www.instagram.com/Hanzz.or'
+global.sgh = '-'
+global.sgc = '-'
 global.sdc = " "
 global.snh = 'https://PentaPage.my.id'
 
 /*============== PAYMENT ==============*/
-global.pdana = '085954184111'
+global.pdana = '087819629321'
 global.povo = '_'
 global.pgopay = '_'
-global.ppulsa = '085954184111'
-global.ppulsa2 = '085954184111'
+global.ppulsa = '089523814002'
+global.ppulsa2 = '_'
 global.psaweria = '_'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '17754764633'
-global.nomorown = '6285954184111'
-global.namebot = '𝐏𝐄𝐍𝐓𝐀𝐆𝐑𝐀𝐌'
+global.nomorbot = '6289523814002'
+global.nomorown = '6281368962120'
+global.namebot = 'Xყυɾυ Ⴆσƚ'
 global.nameown = 'SIJEMBOT'
 
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['17754764633'],
-  ['6285954184111'],
-  ['18126338970'],
   ['6285954184111', 'SIJEMBOT', true]
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
@@ -108,35 +105,35 @@ global.APIKeys = { // APIKey Here
   'https://melcanz.com': 'melcantik',
   'https://neoxr-api.herokuapp.com': 'yntkts',
   'https://server-api-rey.herokuapp.com': 'apirey',
-  'https://botstyle-api.herokuapp.com': 'Apikeymu',
+  'https://botstyle-api.herokuapp.com': 'Eyar749L',
   'https://hardianto.xyz': 'hardianto',
   'https://leyscoders-api.herokuapp.com': 'dappakntlll'
 }
 // Kata APIKEY itu isi dengan apikey lu sendiri, dengan beli ke website itu
 
 /*============== WATERMARK ==============*/
-global.wm = '                「 𝐏𝐄𝐍𝐓𝐀𝐆𝐑𝐀𝐌 」' //Main Watermark
-global.wm2 = '𝐏𝐄𝐍𝐓𝐀𝐆𝐑𝐀𝐌'
-global.wm3 = '⛧𝐏𝐄𝐍𝐓𝐀𝐆𝐑𝐀𝐌'
+global.wm = '                「 xყυɾυ Ⴆσƚ 」' //Main Watermark
+global.wm2 = 'xʏᴜʀᴜ '
+global.wm3 = '⛧ 𝙖𝙡𝙙𝙤 𝙗𝙚𝙡𝙪𝙢 𝙫𝙖𝙠𝙨𝙞𝙣'
 global.botdate = `⫹⫺ 𝗗𝗮𝘁𝗲: ${week} ${date}`
 global.bottime = `𝗧 𝗜 𝗠 𝗘 : ${wktuwib}`
-global.titlebot = '⛧┊ PENTAGRAM ʙᴏᴛ'
+global.titlebot = '⛧┊ 𝙖𝙡𝙙𝙤𝙗𝙚𝙡𝙪𝙢𝙫𝙖𝙠𝙨𝙞𝙣'
 global.author = global.wm
 
 
 /*============== LOGO ==============*/
 global.cute = ['https://telegra.ph/file/ca7d9376258157f01bebb.jpg', 'https://telegra.ph/file/0edda48d08cfff657c291.jpg', 'https://telegra.ph/file/7e45b5dae5fbba46f382b.jpg', 'https://telegra.ph/file/d4919bc83320629db7444.jpg', 'https://telegra.ph/file/079e3812ca37e20e7de1a.jpg', 'https://telegra.ph/file/4bb17c614f65620cb5852.jpg', 'https://telegra.ph/file/9c0e024e0b1cc1caaa61d.jpg', 'https://telegra.ph/file/d5c2c37297ff4baf42337.jpg', 'https://telegra.ph/file/fa33ba767d2adebbd7402.jpg', 'https://telegra.ph/file/43a5f138fb3743f258de8.jpg', 'https://telegra.ph/file/bad0bbfc7d19ea6bcfa9e.jpg', 'https://telegra.ph/file/05ac0d6ea2a5212ee092e.jpg', 'https://telegra.ph/file/27f8b54a27aefcd03116b.jpg', 'https://telegra.ph/file/12be51d9d3d624d3e900d.jpg'] 
 
-global.thumb = 'https://telegra.ph/file/162d60896b53c2e885c40.jpg' //Main Thumbnail
-global.thumb2 = 'https://telegra.ph/file/162d60896b53c2e885c40.jpg'
-global.thumbbc = 'https://telegra.ph/file/162d60896b53c2e885c40.jpg' //For broadcast
+global.thumb = 'https://pin.it/7xb00eG' //Main Thumbnail
+global.thumb2 = 'https://pin.it/7xb00eG'
+global.thumbbc = 'https://pin.it/7xb00eG' //For broadcast
 global.giflogo = 'https://telegra.ph/file/a46ab7fa39338b1f54d5a.mp4'
 
 global.fla = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=sketch-name&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&fillTextType=1&fillTextPattern=Warning!&text='
 
 /*============== TEXT ==============*/
 global.wait = '```「▰▰▰▱▱▱▱▱▱▱」Loading...```'
-global.eror = '```404 error```'
+global.eror = '```𝙀𝙧𝙤𝙧! 𝙨𝙞𝙡𝙖𝙝𝙠𝙖𝙣 𝙡𝙖𝙥𝙤𝙧𝙠𝙖𝙣 𝙢𝙖𝙨𝙖𝙡𝙖𝙝 𝙞𝙣𝙞 𝙠𝙚 𝙤𝙬𝙣𝙚𝙧```'
 
 /*=========== TYPE DOCUMENT ===========*/
 global.dpptx = 'application/vnd.openxmlformats-officedocument.presentationml.presentation'
@@ -162,7 +159,7 @@ global.dmenuf = '┗––––––––––✦' //footer
 global.dashmenu = '┅━━━━━═┅═❏ *DASHBOARD* ❏═┅═━━━━━┅'
 global.cmenut = '❏––––––『'                       //top
 global.cmenuh = '』––––––'                        //header
-global.cmenub = '┊𖤐 '                            //body
+global.cmenub = '┊＊ '                            //body
 global.cmenuf = '┗━═┅═━––––––๑\n'                //footer
 global.cmenua = '\n⌕ ❙❘❙❙❘❙❚❙❘❙❙❚❙❘❙❘❙❚❙❘❙❙❚❙❘❙❙❘❙❚❙❘ ⌕\n     ' //after
 global.pmenus = '┊'                              //pembatas menu selector
@@ -176,7 +173,7 @@ global.hsquere = ['⛶','❏','⫹⫺']
 
 /*============== STICKER WM ==============*/
 global.stickpack = '_'
-global.stickauth = `𝐏𝐄𝐍𝐓𝐀𝐆𝐑𝐀𝐌`
+global.stickauth = `ᴀʟᴅᴏ ʙᴇʟᴜᴍ ᴠᴀᴋsɪɴ`
 
 global.multiplier = 38 // The higher, The harder levelup
 

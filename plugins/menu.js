@@ -492,8 +492,8 @@ let buttonMessage= {
             templateButtons: [
                 {
                     urlButton: {
-                        displayText: 'SC?',
-                        url: 'https://www.whatsapp.com/otp/copy/' + `Lmao`
+                        displayText: 'WhatsApp Owner?',
+                        url: 'Wa.me/6281368962120' + `Lmao`
                     }
                 },
                 {
@@ -536,7 +536,7 @@ handler.help = ['menu', 'help', '?']
 handler.tags = ['main']
 handler.command = /^(menu|help|\?)$/i
 
-handler.register = true
+handler.register = false
 handler.exp = 3
 
 export default handler

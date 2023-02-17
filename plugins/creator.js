@@ -7,17 +7,15 @@ let handler = async (m, { conn, args, command }) => {
 	let ppown = 'https://telegra.ph/file/f124c0ce3b165014f02ee.jpg'
 let teksbio = `
 
-*ɴᴀᴍᴇ:* GopalAsu 
-*ᴀɢᴇ:* 19ᵗʰ
+*ɴᴀᴍᴇ:* aldo belum vaksin
+*ᴀɢᴇ:* 99
 *sᴛᴀᴛᴜs:* single 
 
-*ʙɪʀᴛʜᴅᴀʏ:* 27 Jan 2003
-*ᴀᴅᴅʀᴇss:* Indonesia, Jawa Timur, Surabaya`
+*ʙɪʀᴛʜᴅᴀʏ:* 15 Okt 0001
+*ᴀᴅᴅʀᴇss:* Indonesia, Jawa Barat,Bandung`
 let foot = `
 📷 *Instagram:*
    ╰► ${sig}
-🐈 *Github:* 
-  ╰► ${sgh}
 🥏 *Whatsapp*
   ╰► wa.me/${nomorown}`
 

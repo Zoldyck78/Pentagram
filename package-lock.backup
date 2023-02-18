@@ -1,7 +1,7 @@
 {
     "name": "Kanna BOT",
     "version": "2.10.18",
-    "lockfileVersion": 2,
+    "lockfileVersion": 7,
     "requires": true,
     "packages": {
         "": {
